@@ -7,3 +7,8 @@
 esto agrega la modificaciones
 
 4. git commit -m "mensaje"
+
+5.git log
+veo los cambio los commit que hize 
+
+6.
