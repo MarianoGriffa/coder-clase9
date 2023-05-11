@@ -1,0 +1,9 @@
+1. git init
+
+2. git status
+  para ver el estado de mis archivos
+
+3. git add .
+esto agrega la modificaciones
+
+4. git commit -m "mensaje"
