@@ -5,20 +5,20 @@
 
 body {
     background-color: #282829;
-    font-family: 'Roboto', sans-serif;
-}
+    font-family: 'ABeeZee', sans-serif;
+}  
 
 ul {
-    list-style: none;
+    list-style: none; 
 }
 
 header {
     display: flex;
     flex-direction: column;
-    align-items: center;
-    background-color: #a52121;
-    gap: 18px;
-    padding: 20px 0;
+    align-items: center; 
+    background-color: #df4a4a;
+    gap: 18px; 
+    padding: 20px 0; 
     position: sticky;
     top: 0;
 }
